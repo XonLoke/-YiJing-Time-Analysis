@@ -13,7 +13,7 @@
 以下是我在 GitHub 的代码分享，希望同学们能够继续从代码中获得灵感，持续优化，让存粹中华数术预测法登上科学的殿堂。
 
 周易预测与时间序列
-https://github.com/XonLoke/-YiJing-Time-Anal经过了基础ysis/blob/main/README.md
+https://github.com/XonLoke/-YiJing-Time-Analysis
 
 #蚂蚁金服资金流入流出预测比赛
 https://tianchi.aliyun.com/competition/entrance/231573
