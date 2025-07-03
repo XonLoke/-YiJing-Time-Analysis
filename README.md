@@ -11,7 +11,7 @@
 周易预测与时间序列
 https://github.com/XonLoke/-YiJing-Time-Anal经过了基础ysis/blob/main/README.md
 
-#蚂蚁金服资金流入流出预测项目工作计划
+#蚂蚁金服资金流入流出预测比赛
 https://tianchi.aliyun.com/competition/entrance/231573
 
 ## 项目背景
