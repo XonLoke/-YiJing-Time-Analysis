@@ -1,0 +1,32 @@
+https://tianchi.aliyun.com/competition/entrance/231573
+
+# 蚂蚁金服资金流入流出预测项目工作计划
+
+## 项目背景
+蚂蚁金服拥有上亿会员，每天涉及大量资金流入和流出。需要精准预测未来每日的资金流入流出情况，以保证资金流动性风险最小，同时满足日常业务运转。
+
+## 数据概述
+### 数据文件说明
+1. **用户信息表** (`user_profile_table.csv`)
+   - 约2.8万用户基本信息
+   - 字段：user_id, sex, city, constellation
+
+2. **用户申购赎回数据表** (`user_balance_table.csv`)
+   - 时间范围：2013年7月1日至2014年8月31日
+   - 包含用户每日申购、赎回、余额等详细信息
+   - 关键字段：total_purchase_amt（申购总额）、total_redeem_amt（赎回总额）
+
+3. **收益率表** (`mfd_day_share_interest.csv`)
+   - 余额宝14个月内的收益率数据
+   - 字段：mfd_date, mfd_daily_yield（万份收益）, mfd_7daily_yield（七日年化收益率）
+
+4. **银行间拆借利率表** (`mfd_bank_shibor.csv`)
+   - 14个月期间银行间拆借利率数据
+   - 包含隔夜、1周、2周、1月、3月  6月、9月、1年等不同期限利率
+
+### 预测目标
+预测2014年9月1日至9月30日每天的：
+- 申购总额（purchase）
+- 赎回总额（redeem）
+预测结果生成格式示例：`comp_predict_table.csv`
+（不含表头）
