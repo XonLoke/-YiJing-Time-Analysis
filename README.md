@@ -10,7 +10,7 @@
 第二次成功尝试，成绩达120分：
 120.3101 cycle_factor_analysis_iching.py (iching_enhanced_predictions.csv)
 
-以下是我在 GitHub 的代码分享，希望同学们能够继续从代码中获得灵感，持续优化，让存粹中华数术预测法登上科学的殿堂。
+以下是我在 GitHub 的代码分享，希望同学们能够继续从代码中获得灵感，持续优化，让中华数术登上科学的殿堂。
 
 周易预测与时间序列
 https://github.com/XonLoke/-YiJing-Time-Analysis
