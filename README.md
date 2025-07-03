@@ -3,11 +3,15 @@
 #“周易预测”融合入“时间序列”的尝试
 
 经过了几次尝试把“周易预测”融合入“时间序列”里，以下是所得成绩：
+
 第一次成功尝试，成绩刚刚达100分：
 100.3638 资金流入流出预测GPU_V2.py (tc_comp_predict_table_GPU_V2.csv)
+
 第二次成功尝试，成绩达120分：
 120.3101 cycle_factor_analysis_iching.py (iching_enhanced_predictions.csv)
+
 以下是我在 GitHub 的代码分享，希望同学们能够继续从代码中获得灵感，持续优化，让存粹中华数术预测法登上科学的殿堂。
+
 周易预测与时间序列
 https://github.com/XonLoke/-YiJing-Time-Anal经过了基础ysis/blob/main/README.md
 
