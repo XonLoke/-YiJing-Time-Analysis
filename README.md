@@ -20,11 +20,11 @@ https://tianchi.aliyun.com/competition/entrance/231573
 
 官方提供的文件在 Purchase Redemption Data.zip 里：
 https://tianchi.aliyun.com/competition/entrance/231573/information
-comp_predict_table.csv
-mfd_bank_shibor.csv
-mfd_day_share_interest.csv
-user_balance_table.csv
-user_profile_table.csv
+   - comp_predict_table.csv
+   - mfd_bank_shibor.csv
+   - mfd_day_share_interest.csv
+   - user_balance_table.csv
+   - user_profile_table.csv
 
 ## 项目背景
 蚂蚁金服拥有上亿会员，每天涉及大量资金流入和流出。需要精准预测未来每日的资金流入流出情况，以保证资金流动性风险最小，同时满足日常业务运转。
